@@ -1,5 +1,13 @@
-## Hi there 👋
-
+## Hi, I'm Alejandro Sequeira 👋 <br /> Full Stack Developer 🧑🏻‍💻
+## About Me
+## Some Projects
+## Technologies 🛠️
+ - **Programming Languages:** PHP, Javascript, Html, Css
+ - **Frontend:** Nuxt, Vue, Backpack, Blade
+ - **Backend:** Laravel, Nodejs, Express & Codeigniter
+ - **Aws Services:** EC2, IAM, S3, Lambda, Api Gateway, SES, SQS, DynamoDB, Cognito & RDS
+ - **Others:** Docker, Axios, JWT, Datatables, Bootstrap
+ 
 <!--
 **ALESER9413/ALESER9413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
