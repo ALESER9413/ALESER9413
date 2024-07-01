@@ -4,6 +4,8 @@ I would describe myself as a collaborative, passionate and creative software eng
 
 Over the years, I worked on several project teams using Javascript, Laravel, Nuxt, NodeJs, some AWS Services, and recently Backpack which helped me to design and develop complex systems.
 
+If you want to know more about me, don't hesitate to contact me!
+
 ## Technologies 🛠️
  - **Programming Languages:** PHP, Javascript, Html & Css
  - **Frontend:** Nuxt, Vue, Backpack & Blade
